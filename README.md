@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h5 align="center"> Aiming to make a postive impact with data</h5>
 
 ### About Me
-Motivated and detail-oriented data scientist with a master's degree, skilled in data analytics, visualizations, predictive analytics, and machine learning, enthusiastic about Deep Learning, collaborative, positive attitude and always exploring and learning. I have a passion for using data to drive business decisions and am always looking for new ways to optimize processes and improve performance. <br><br>
+Motivated and detail-oriented data scientist with a master's degree, skilled in data analytics, visualizations, predictive analytics, and machine learning, enthusiastic about Deep Learning, collaborative, positive attitude and always exploring and learning. I have a passion for using data to drive business decisions and am always looking for new ways to optimize processes and improve performance. <br>
 <p align="center">
 To Know more about my projects and skills check out my:
 <a href="https://mushrifah.github.io/">My Porfolio</a>
