@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mushrifah</h1>
-<h3 align="center">A Data Scientist from India</h3>
-<h5 align="center"> Aiming to make a postive impact with data</h5>
+<!-- <h3 align="center">A Data Scientist from India</h3> -->
+<h4 align="center"> Aiming to make a postive impact with data</h5>
 
 ### About Me
 Motivated and detail-oriented data scientist with a master's degree, skilled in data analytics, visualizations, predictive analytics, and machine learning, enthusiastic about Deep Learning, collaborative, positive attitude and always exploring and learning. I have a passion for using data to drive business decisions and am always looking for new ways to optimize processes and improve performance. <br>
